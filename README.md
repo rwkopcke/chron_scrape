@@ -24,6 +24,7 @@ d. `/Users/richardkopcke/Python_Projects/chron_scrape/main.py`
 #### *https://dev.to/trueqap/how-to-run-cron-on-macos-in-2025-a-complete-guide-2b8e*
 #### *https://www.geeksforgeeks.org/linux-unix/cron-command-in-linux-with-examples/*
 #### *https://hackernoon.com/automate-python-scripts-on-mac-a-step-by-step-guide-to-scheduling-with-crontab*
+#### *https://github.com/ProximaDS/python-web-file-scraper/blob/main/Web_scraperV3.py*
 1. spaces
     - separate 10, 10, *, *, and *
     - separate a, b, c, and d
