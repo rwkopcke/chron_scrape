@@ -26,13 +26,11 @@ HEADERS = \
     {"User-Agent": 
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_06_1) AppleWebKit/18.6 (KHTML, like Gecko) Safari/18.6"}
 
-PRJ_ADDR = "/Users/richardkopcke/Python_Projects/sp500_earn_price_pkg/"
+PRJ_ADDR = "/Users/richardkopcke/Python_Projects/sp500-earn-price-pkg/"
 LOG_NAME = "chron_scrape.log"
 LOG_ADDR = PRJ_ADDR + LOG_NAME
 
-FILE_DIR = (
-    "/Users/richardkopcke/Python_Projects/"
-    "sp500_earn_price_pkg/input_output/input_dir/")
+FILE_DIR = PRJ_ADDR + "input_output/input_dir/"
 
 CURRENT_DATE = dt.strftime(dt.now(), "%Y %m %d")
 SP_FILE_NAME = "sp-500-eps-est " + CURRENT_DATE + ".xlsx"
